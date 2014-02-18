@@ -6,7 +6,7 @@ There are three main components to this project:
 
   cap_ffmpeg_stream.cpp -
 
-This file provides an interface to OpenCV which allows for the capture of raw h264 video streams, specifically from Raspberry Pis using the raspicam application. This interface is modeled after the built in video capture interfaces in OpenCV.
+This file provides an interface to OpenCV which allows for the capture of raw h264 video streams, specifically from Raspberry Pis using the raspivid application. This interface is modeled after the built in video capture interfaces in OpenCV.
 
   barrel_dist.c -
 
